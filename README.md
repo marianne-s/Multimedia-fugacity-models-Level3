@@ -5,7 +5,7 @@
 
 You can run it directly in: </br></br>
 https://mybinder.org/v2/gh/marianne-s/Multimedia-fugacity-models-Level3/HEAD </br></br>
-![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/marianne-s/Multimedia-fugacity-models-Level3/HEAD)
+[![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/marianne-s/Multimedia-fugacity-models-Level3/HEAD)
 </br></br>
 
 ## The model: 
