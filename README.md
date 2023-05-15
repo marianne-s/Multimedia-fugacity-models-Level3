@@ -1,5 +1,5 @@
 # Multimedia-fugacity-models-Level3
-  Level 3 multimedia fugacity model for the Environmental Chemistry course </br>
+  Level 3 multimedia fugacity model for the Environmental Chemistry course in the University of Amsterdam </br>
 
 ## Jupyter immediat executable environment: 
 
