@@ -3,7 +3,6 @@
 ## The model: 
 We will work with the following model:</br></br>
 ![alt text](https://github.com/marianne-s/Multimedia-fugacity-models-Level3/blob/main/img/LEVEL3_Figure.png?raw=true)
-
 </br></br>
 
 ## Multimedia-fugacity-models-Level3
