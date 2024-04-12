@@ -1,7 +1,7 @@
 ## Multimedia-fugacity-models-Level3
 
 ## The model: 
-We will work with the following model:</br></br>
+We will work with the following Level 3 model:</br></br>
 ![alt text](https://github.com/marianne-s/Multimedia-fugacity-models-Level3/blob/main/img/LEVEL3_Figure.png?raw=true)
 </br></br>
 
